@@ -104,10 +104,6 @@ cd Competitive-Programming-arena
 gcc -o jeu.exe main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/mastermind.c tasks/task3/course_robots.c tasks/task4/tri_ultime.c -lm
 ```
 
-**Sur Linux/Mac** :
-```bash
-gcc -o jeu main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/mastermind.c tasks/task3/course_robots.c tasks/task4/tri_ultime.c -lm
-```
 
 ---
 
@@ -116,11 +112,6 @@ gcc -o jeu main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/mastermin
 **Sur Windows** :
 ```bash
 jeu.exe
-```
-
-**Sur Linux/Mac** :
-```bash
-./jeu
 ```
 
 Tu verras ce menu :
@@ -265,7 +256,7 @@ N'hésite pas à proposer tes modifications !
 
 - Projet réalisé dans le cadre des études à l'ENSI
 - But pédagogique : apprendre les algorithmes de manière ludique
-- Langage : C (avec un peu de C standard)
+- Langage : C 
 
 ---
 
