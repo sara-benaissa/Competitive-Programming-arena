@@ -111,7 +111,7 @@ gcc -o jeu.exe main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/maste
 
 **Sur Windows** :
 ```bash
-jeu.exe
+./jeu
 ```
 
 Tu verras ce menu :
