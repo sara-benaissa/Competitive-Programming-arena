@@ -101,12 +101,12 @@ cd Competitive-Programming-arena
 
 **Sur Windows** :
 ```bash
-gcc -o arena.exe main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/mastermind.c tasks/task3/course_robots.c tasks/task4/tri_ultime.c -lm
+gcc -o jeu.exe main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/mastermind.c tasks/task3/course_robots.c tasks/task4/tri_ultime.c -lm
 ```
 
 **Sur Linux/Mac** :
 ```bash
-gcc -o arena main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/mastermind.c tasks/task3/course_robots.c tasks/task4/tri_ultime.c -lm
+gcc -o jeu main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/mastermind.c tasks/task3/course_robots.c tasks/task4/tri_ultime.c -lm
 ```
 
 ---
@@ -115,12 +115,12 @@ gcc -o arena main.c common/ui.c tasks/task1/compte_est_bon.c tasks/task2/masterm
 
 **Sur Windows** :
 ```bash
-arena.exe
+jeu.exe
 ```
 
 **Sur Linux/Mac** :
 ```bash
-./arena
+./jeu
 ```
 
 Tu verras ce menu :
